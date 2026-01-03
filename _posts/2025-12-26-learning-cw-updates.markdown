@@ -32,4 +32,4 @@ My biggest mistake was not focusing on ICR. Instead I used all of the recommende
 
 2. Morse ICR - [https://apps.apple.com/lv/app/morse-icr/id6736839333](https://apps.apple.com/lv/app/morse-icr/id6736839333) - iPhone App
 
-3. Morse Runnner]https://dxatlas.com/MorseRunner/] - Windows executable - Contest simulator - Good for general QSOs and introducing QRM/QRN.
+3. Morse Runnner - [https://dxatlas.com/MorseRunner/](https://dxatlas.com/MorseRunner/) - Windows executable - Contest simulator - Good for general QSOs and introducing QRM/QRN.
